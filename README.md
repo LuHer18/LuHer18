@@ -4,9 +4,9 @@
 
 ## 📖 About me
 
-* 💻 I'm a FrontEnd Developer
+* 💻 I'm a Web Developer
 * 🎨 I'm currently working on my own projects
-* 📱 I'm currentry learing React, JavaScript, HTML, CSS
+* 📱 I'm currentry learing React, JavaScript, HTML, CSS, Java, Spring Boot, Node Js
 * 🎓 I'm a Industrial Engineer
 * 🌐 I'm loking for a job
 
