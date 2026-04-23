@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/luis.png" alt="Luis" width="180" style="border-radius: 50%;" />
+  <img src="./assets/luis-circle.svg" alt="Luis" width="180" />
 </p>
 
 <h1 align="center">Hi, I'm Luis Herrera 👋</h1>
@@ -91,6 +91,5 @@
   <a href="https://www.linkedin.com/in/luis-herrera-26b706161/"><img alt="LinkedIn" title="Luis Herrera" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:luis1818.lh@gmail.com"><img alt="Gmail" title="Luis Herrera" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
-
 
 
